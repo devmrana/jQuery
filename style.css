@@ -1,0 +1,15 @@
+.style1 {
+    color: rgb(230, 35, 35);
+    font-family: 'Lucida Sans';
+    font-style: oblique;
+}
+
+.style2 {
+    color: green;
+    font-style: italic;
+}
+
+.commonstyle {
+    font-size: 2rem;
+    font-weight: bold;
+}
